@@ -8,7 +8,7 @@ Flexible research designs + Low statistical power = poor reliability in biomedic
 - Null hypothesis significance testing
   - Pitfall 1: Misuse of p-values
   - Pitfall 2: Researcher degrees of freedom
-- Low Statistical Power
+- Positive predictive value of research findings
 - Poor Replication Rates
 - Modernizing academic data science
 - Discussion
